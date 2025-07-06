@@ -1,0 +1,1 @@
+Ce projet a été réalisé dans le cadre d'une démonstration de visualisation de données avec Metabase, connectée à une base PostgreSQL. Le jeu de données simule des subventions versées à des organismes locaux sur plusieurs années (2021–2024).
