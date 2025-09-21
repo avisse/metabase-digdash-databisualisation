@@ -7,7 +7,7 @@ L’objectif est de mettre en place une **chaîne complète de datavisualisation
 
 ---
 
-## 🛠 Stack technique
+## Stack technique
 
 - **PostgreSQL** : Base de données relationnelle locale (VM Debian 12)
 - **Metabase** : Plateforme de datavisualisation libre, installée sur la même VM
