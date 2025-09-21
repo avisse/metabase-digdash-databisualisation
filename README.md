@@ -1,6 +1,6 @@
-# 🧠 Projet Data Visualisation — Subventions par Organisme
+#  Projet Data Visualisation — Subventions par Organisme
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce projet vise à créer un **dashboard complet dans Metabase** pour visualiser des données de subventions attribuées à différents organismes (associations, écoles, centres sociaux, etc.).  
 L’objectif est de mettre en place une **chaîne complète de datavisualisation locale**, depuis la création de la base de données PostgreSQL jusqu’à la mise en forme graphique des analyses dans Metabase.
@@ -38,7 +38,7 @@ Modifier
 
 ---
 
-## 🧱 Étapes réalisées
+##  Étapes réalisées
 
 ### 1. Création de la base de données
 
@@ -96,11 +96,11 @@ Nom : **Association Sportive**
      - Projet d’inclusion
      - etc.
 
-### ✅ Visualisation disponible sur plusieurs pages (onglet 1, 2, etc.)
+###  Visualisation disponible sur plusieurs pages (onglet 1, 2, etc.)
 
 ---
 
-## 🔎 Exemples de requêtes SQL utilisées dans Metabase
+##  Exemples de requêtes SQL utilisées dans Metabase
 
 ```sql
 -- Total des subventions par organisme
